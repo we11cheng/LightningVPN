@@ -23,3 +23,5 @@
 ![](https://raw.githubusercontent.com/we11cheng/picBed/master/20200727172448.png)
 
 - 其他自测。
+
+- 鉴于更新pod和carthage慢的问题，编译成功后代码存了一份百度网盘，需要自取 链接: <https://pan.baidu.com/s/1yBe3-X1cVxW1Gd4H3w5xeg> 提取码: jbvr
