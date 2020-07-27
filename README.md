@@ -13,3 +13,13 @@
 
 <br>6，然后代码里面配置SS服务器的IP，端口，密码，等等。
 <br>7，就可以跑起来了。
+
+#### 简单补充一下
+
+- 如何创建App Groups 参考<https://www.jianshu.com/p/94d4106b9298>
+
+- 代码里面配置SS服务器的IP，端口，密码 路径 
+
+![](https://raw.githubusercontent.com/we11cheng/picBed/master/20200727172448.png)
+
+- 其他自测。
